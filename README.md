@@ -126,10 +126,10 @@ No installation required.
 
 # Author
 
-**Vinay Balaji**
+**Leela Prasad. Paila**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/LeelaprasadPaila
 
 ---
 
