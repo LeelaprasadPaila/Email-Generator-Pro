@@ -8,7 +8,7 @@ It automatically generates professional Gmail addresses based on a user's name a
 
 ## 🚀 Live Demo
 
-👉 https://YOUR_USERNAME.github.io/Email-Generator-Pro/
+👉 https://leelaprasadpaila.github.io/Email-Generator-Pro/
 
 ---
 
