@@ -126,7 +126,7 @@ No installation required.
 
 # Author
 
-**Leela Prasad. Paila**
+**Leelaprasad. Paila**
 
 GitHub:
 https://github.com/LeelaprasadPaila
